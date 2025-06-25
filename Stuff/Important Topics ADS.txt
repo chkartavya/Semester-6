@@ -1,0 +1,11 @@
+                                                              Important Topics
+Frequency Arrays; Prefix Arrays; Two pointers(Array, String)
+Sliding Window and Approach
+Array Advanced Algorithms – 1: Kadane's Algorithm, Prime Seive, Vectors and 
+Amalgamation 
+Problems on Sorting, Pigeon Hole Principle and Heavy Implementation
+
+String Matching Algorithms like KMP, Z Function, and Rabin Karp
+
+self invoked functions Copy Assignment Operators,Message Passing
+
